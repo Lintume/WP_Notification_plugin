@@ -1,0 +1,33 @@
+==Description==
+
+WP_Notification_plugin allows you to create and configure the notification on your site that can be outputed with the shortcode.
+Create a notice in the admin menu tab in WP_Notification_plugin. Adjust the color of the notification, the position on the page, slag. 
+You can add only text of the notification and slag; the other parameters will be set automatically.
+In the admin panel you can add new notifications, edit existing. By clicking on the "Copy" button will be automatically generated ready 
+shortcode, which you can insert anywhere in a post on the website. When shortcode is copying, you can view the preview. 
+When hidden shortcode comes into the visitor visibility, notification will be displayed.
+
+
+==Installation==
+
+1)Upload the entire WP_Notification_plugin folder to the /wp-content/plugins/ directory.
+2)Activate the plugin through the 'Plugins' menu in WordPress.
+You will find 'WP Notification plugin' menu in your WordPress admin panel.
+
+
+==Опис==
+
+WP_Notification_plugin дозволяє вам створювати та налаштовувати повідомлення, які будуть виводитися на сторінках сайту за допомогою шорткоду. 
+Створюйте повідомлення в адмін меню у вкладці WP_Notification_plugin. Налаштуйте колір повідомлення, 
+положення на сторінці, шорткод. Ви можете додати тільки текст повідомлення і шорткод, інші параметри будуть 
+виставлені автоматично.
+В адмін панелі ви можете додавати нові повідомлення, редагувати наявні. 
+При натисканні на кнопку "копіювати" буде автоматично згенерований готовий шорткод, який ви можете вставити 
+в будь-якому місці поста на сайті. При копіюванні ви зможете переглянути його превью.
+Коли прихований шорткод потрапить в поле видимості відвідувача - буде виведено вказане вами повідомлення з вашими налаштуваннями.
+
+==Установка==
+
+1) Завантажте папку WP_Notification_plugin в директорію /wp-content/plugins/.
+2)Активуйте плагін через меню "Plugins" у WordPress.
+Ви знайдете меню  'WP Notification plugin' у вашій адмін панелі. 
